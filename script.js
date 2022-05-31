@@ -1,7 +1,7 @@
 var textWrapper = document.querySelector(".ml1 .letters");
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 var i = 0;
-var txt = "Kekuatan ucapan adalah sebagian dari doa, dan doa yang tulus akan selalu di kabulkan. Semoga di hari lahir kamu ini akan membawa keberkahan dan kesuksesan di masa depan kamu kelak, Aamiin. Selamat ulang tahun sayangku. Aku sayang kamu Aulia Ayu Maudiningrum 💜";
+var txt = ""Kekuatan ucapan adalah sebagian dari doa, dan doa yang tulus akan selalu di kabulkan. Semoga di hari lahir kamu ini akan membawa keberkahan dan kesuksesan di masa depan mu kelak, Aamiin. Selamat ulang tahun  sayangku. Aku sayang kamu Aulia Ayu Maudiningrum 💜";
 var speed = 90;
 
 anime.timeline({ loop: true })

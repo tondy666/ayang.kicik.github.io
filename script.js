@@ -1,7 +1,7 @@
 var textWrapper = document.querySelector(".ml1 .letters");
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 var i = 0;
-var txt = "Hari demi hari telah kita berdua lewati bersama, baik keadaan suka maupun duka, saling melengkapi dan saling mengasihi sebagai pasangan. Yang aku tahu, berada di sampingmu adalah kebahagiaan terbesar untukku. Terima kasih karena membuatku menjadi orang yang lebih baik dengan cinta darimu. Pada hari ini, yang merupakan hari istimewa untuk kita berdua, aku mau ngucapin, happy anniversary sayangku. Aku sayang kamu Annisa Aulia 💜";
+var txt = "Kekuatan ucapan adalah sebagian dari doa, dan doa yang tulus akan selalu di kabulkan. Semoga di hari lahir kamu ini akan membawa keberkahan dan kesuksesan di masa depan kamu kelak, Aamiin. Selamat ulang tahun sayangku. Aku sayang kamu Aulia Ayu Maudiningrum 💜";
 var speed = 90;
 
 anime.timeline({ loop: true })
